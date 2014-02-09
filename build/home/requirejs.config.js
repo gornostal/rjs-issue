@@ -1,0 +1,1 @@
+../../home/requirejs.config.js
